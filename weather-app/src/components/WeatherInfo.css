@@ -1,0 +1,18 @@
+.weather-info {
+    background-color: #fff;
+    color: #282c34;
+    padding: 20px;
+    border-radius: 10px;
+    width: 300px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    margin-top: 20px;
+    text-align: left;
+}
+
+.weather-info h2 {
+    margin-bottom: 10px;
+}
+
+.weather-info p {
+    margin: 5px 0;
+}
